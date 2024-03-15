@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Visual Studio Code specific files
+.vscode/
+*.code-workspace
+
+# Visual Studio specific files
+.vs/
+*.suo
+*.ntvs*
+*.njsproj.user
+*.sln.docstates
+
+# Mac specific files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Compiled binary addons (if you're using any)
+/build/
+
+# IDE settings
+.idea/
+
+# Temporary files
+*.tmp
